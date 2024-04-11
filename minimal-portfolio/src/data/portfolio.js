@@ -37,7 +37,7 @@
         link: ''
     },
     {
-        title: 'Antrea',
+        title: 'Antrea Open-source',
         imgUrl: '/assets/images/antrea.PNG',
         stack: ['Go', 'Shell', 'Kubernetes'],
         link: 'https://antrea.io/'
